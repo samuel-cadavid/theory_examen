@@ -29,7 +29,9 @@ hacer una tortilla
 1.cojemos todos los ingredientes necesarios:
 huevo, sal, mantequilla.
 2 cojemos los implementos necesarios:
-sarten, cuchara, hogon, 
+3.sarten, cuchara, hogon.
+4.ponemos todo en un boul e integramos todo hasta q se vea bien
+5.esperamos  este y servimos la porcion deceada 
    - Identificar las entradas (datos que recibe el sistema), procesos (operaciones realizadas) y salidas (resultados esperados).
 
 2. **Diseño de la solución (20 puntos):**
