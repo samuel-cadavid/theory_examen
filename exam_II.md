@@ -34,13 +34,15 @@ sarten, cuchara, hogon,
 
 2. **Diseño de la solución (20 puntos):**
    - **Diagrama de flujo simplificado** que represente el proceso de registro de un producto y actualización del inventario.
+![mi beca](https://github.com/user-attachments/assets/494d634f-4346-42b5-9b68-027062b6324e)
+
 
    - **Pseudocódigo** para una de las operaciones (por ejemplo, registrar un nuevo producto).
 
 3. **Validación y prueba (15 puntos):**
    - Escribe un caso de prueba para verificar el registro de productos y la actualización de inventario.
    - Incluye un ejemplo de cómo validas que la cantidad de un producto no sea negativa.
-
+   
 4. **Documentación (5 puntos):**
    - **Breve manual de usuario** (1 párrafo) explicando cómo registrar un producto y actualizar el inventario.
 
