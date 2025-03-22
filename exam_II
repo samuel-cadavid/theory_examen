@@ -24,10 +24,17 @@ El proyecto será evaluado en dos partes: el diseño algorítmico y la implement
 
 1. **Análisis del problema (10 puntos):**
    - Describir brevemente cómo descompondrías el problema en tareas más simples (subproblemas).
+inicio
+hacer una tortilla
+1.cojemos todos los ingredientes necesarios:
+huevo, sal, mantequilla.
+2 cojemos los implementos necesarios:
+sarten, cuchara, hogon, 
    - Identificar las entradas (datos que recibe el sistema), procesos (operaciones realizadas) y salidas (resultados esperados).
 
 2. **Diseño de la solución (20 puntos):**
    - **Diagrama de flujo simplificado** que represente el proceso de registro de un producto y actualización del inventario.
+
    - **Pseudocódigo** para una de las operaciones (por ejemplo, registrar un nuevo producto).
 
 3. **Validación y prueba (15 puntos):**
